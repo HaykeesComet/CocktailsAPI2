@@ -12,7 +12,7 @@ services:
       - key: DATABASE_URL
         fromDatabase:
           name: cocktail-database
-          property: postgres://iameych77:Zkic3xh6o6rNpxqetnb78xdVh3uxG16y@dpg-cp7mv4md3nmc73buv780-a/cocktail_database_lw3l
+          property: d09713b722ea388048360b3aa1215f30
 
 databases:
   - name: cocktail-database
